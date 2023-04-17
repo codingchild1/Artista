@@ -24,7 +24,7 @@
 <br>
 
 # Demo
-[![RunningMate Demo](images/image102.PNG)](https://www.youtube.com/watch?v=7uexY16tpgA&t=225s)
+[![RunningMate Demo](images/6.PNG)](https://www.youtube.com/watch?v=EiH-iidK8UA)
 
 <br>
 
