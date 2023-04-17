@@ -241,14 +241,15 @@
 
 <details><summary> <b>API & Library</b> </summary>
 
-* API Docs - mapbox
-* Kakao API - KakaoMap
-* Ck Editor  
+* 결제 API
+* SNS 로그인 API
+* Ck Editor
+* 배송 조회 API
   
 </details>
 
-러닝에 대한 여러가지  보를 공유하고
-러닝메이트를 구하는 러닝 커뮤니티 사이트
+예술가와 작품들을 간단히 소개 받을 수 있고
+예술의 발전에 큰 일조를 할 수 있는 서비스
 
 
-멀티캠퍼스 풀스택 세미프로젝트 
+멀티캠퍼스 풀스택 프로젝트 
