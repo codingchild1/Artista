@@ -20,7 +20,7 @@
 <br>
 
 <img src="images/1.PNG" width="200" height="500"/>&ensp;&ensp;&ensp;&ensp;&ensp;<img src="images/2.PNG" width="200" height="500"/>
-&ensp;&ensp;&ensp;&ensp;&ensp;<img src="images/3.PNG" width="400" height="500"/>
+&ensp;&ensp;&ensp;&ensp;&ensp;<img src="images/3.PNG" width="200" height="500"/>
 <br>
 
 # Demo
