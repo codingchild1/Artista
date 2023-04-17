@@ -30,7 +30,7 @@
 
 # 프로젝트 일정
 
-<img src="images/image103.PNG" width="800" height="500"/>
+<img src="images/일정.PNG" width="800" height="500"/>
 
 <br>
 
