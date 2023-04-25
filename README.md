@@ -49,9 +49,7 @@
 <br>
 
 <details>
-<summary>  
-### 메인페이지
-</summary>
+<summary><b>메인페이지</b></summary>
   
 - 새로운 작가 소개 <br>
 - 최신 전시정보 <br>
@@ -61,47 +59,59 @@
 
 <br>
 
-### 작품
-- 전시 정보
-- 작품 정보
+<details>
+  <summary><b>작품</b></summary>
+- 전시 정보 <br>
+- 작품 정보 <br>
 - 작가 정보
+</details>
 
 <br>
 
-### 펀딩
-- 진행 예정 펀딩
-- 진행 중인 펀딩
+<details>
+  <summary><b>펀딩</b></summary>
+- 진행 예정 펀딩 <br>
+- 진행 중인 펀딩 <br>
 - 진행 완료 펀딩
+</details>
 
 <br>
-
-### 장바구니
-- 작품에 담아두기
+<details>
+  <summary><b>장바구니</b></summary>
+- 작품에 담아두기 <br>
 - 작품 구매하기
-
+</details>
 <br>
 
-### 사용자 
-- 로그인
-- 회원가입
+<details>
+  <summary><b>사용자</b></summary>
+- 로그인 <br>
+- 회원가입 <br>
 - 마이페이지
+</details>
 
-사용자 기능
-- 사용자 기능
-- 결제 내역
+<details>
+  <summary><b>사용자 기능</b></summary>
+- 사용자 기능 <br>
+- 결제 내역 <br>
 - 펀딩 내역
+</details>
 
-작가 기능
-- 작가 작품 관리
-- 판매 작품 내역
-- 작가 펀딩 내역
+<details>
+  <summary><b>작가 기능</b></summary>
+- 작가 작품 관리 <br>
+- 판매 작품 내역 <br>
+- 작가 펀딩 내역 <br>
 - 전시 내역
+</details>
 
-관리자 기능
-- 판매 작품 관리
-- 펀딩 관리
-- 전시 관리
+<details>
+  <summary><b>관리자 기능</b></summary>
+- 판매 작품 관리 <br>
+- 펀딩 관리 <br>
+- 전시 관리 <br>
 - 회원 관리
+</details>
 
 <br>
 <br>
