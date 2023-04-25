@@ -89,6 +89,7 @@
 - 회원가입 <br>
 - 마이페이지
 </details>
+ <br>
 
 <details>
   <summary><b>사용자 기능</b></summary>
@@ -96,7 +97,8 @@
 - 결제 내역 <br>
 - 펀딩 내역
 </details>
-
+ <br>
+ 
 <details>
   <summary><b>작가 기능</b></summary>
 - 작가 작품 관리 <br>
@@ -104,6 +106,7 @@
 - 작가 펀딩 내역 <br>
 - 전시 내역
 </details>
+ <br>
 
 <details>
   <summary><b>관리자 기능</b></summary>
