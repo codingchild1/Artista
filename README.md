@@ -39,7 +39,8 @@
 <details><summary> <b>다이어그램</b> </summary>
 <br>
   
-![test](images/diagram.PNG)
+![test](images/7.PNG)
+![test](images/8.PNG)
   
 <br>
 
