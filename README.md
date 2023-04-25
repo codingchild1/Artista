@@ -88,7 +88,7 @@
 
 # 데이터베이스
 
-![test](images/9.png)
+![test](images/9.PNG)
 
 <br>
 <br>
